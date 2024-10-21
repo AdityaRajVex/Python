@@ -1,5 +1,4 @@
 # Name: Aditya Raj
-# Course: CMPSC 131
 # File Name: AdityaRaj_quiz2.py
 # Date: 11/30/2023
 #
